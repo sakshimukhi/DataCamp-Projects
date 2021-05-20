@@ -1,6 +1,4 @@
 # DataCamp-Projects
-
-## DataCamp Projects 
   
 - [Project 1: Functions for Food Price Forecasts](https://github.com/sakshimukhi/DataCamp-Projects/blob/main/Functions%20for%20Food%20Price%20Forecasts.ipynb): Write functions to forecast time series of food prices in Rwanda.
   - R libraries used: `forecast`, `predict`, `ggplot2`, `dplyr`, `lubridate`
